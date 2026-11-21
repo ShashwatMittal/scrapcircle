@@ -36,3 +36,7 @@ Responsive marketplace; material and text filtering; photo-based listing form; h
 Households list recyclable materials with photos and estimated weights. Dealers submit private offers using pseudonymous profiles. The seller selects an offer, both parties coordinate pickup, confirm completion and rate the transaction. Identities remain hidden throughout browsing and negotiation. The exact pickup privacy model must be agreed before implementing location sharing.
 
 The production service, authentication, persistence, notifications, pickup coordination, moderation and verified bilateral ratings are future work. No payments or real-world collection are arranged by this demo.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
